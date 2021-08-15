@@ -7,7 +7,7 @@ As part of the UC Berkeley full stack coding bootcamp, challenge 11 is all about
 This challenge features Express.js and Heroku
 
 ## Deployed App
-TBD, going to deploy to Heroku soon!
+Here's a link to the deployed app on Heroku - https://agile-castle-31141.herokuapp.com/
 
 ## Screenshot
 ![Screen Shot 2021-08-15 at 9 37 47 AM](https://user-images.githubusercontent.com/79061264/129485730-e7f0c6ca-fea7-44e2-9754-d1ab5936707f.png)
